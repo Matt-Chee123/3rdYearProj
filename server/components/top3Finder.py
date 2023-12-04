@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv('../../db/data/data.csv', encoding='cp1252')
+data = pd.read_csv('../data/data.csv', encoding='cp1252')
 print(data)
 
 filtered_data = data[
