@@ -299,6 +299,9 @@
   height: 200px; /* Adjust the height as needed */
   position: relative;
   overflow: hidden;
+  display: flex;
+  align-items: center; /* Centers children vertically in the container */
+  justify-content: center;
 }
 
 
