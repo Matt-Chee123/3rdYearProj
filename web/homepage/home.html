@@ -8,6 +8,7 @@
   <!-- Boxiocns CDN Link -->
   <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 </head>
 <body>
 <div class="sidebar close">
@@ -131,16 +132,20 @@
   </div>
   <div class="main-container">
     <div class="left-components">
-      <div class="component-bubble">
+      <div id="top-three-records" class="component-bubble">
+
       </div>
-      <div class="component-bubble"></div>
+      <div class="component-bubble">
+        <!-- Top 3 records will be inserted here by JavaScript -->
+      </div>
       <div class="component-bubble">
         <img src="../../server/homeComponents/star_ratings_distribution.png" alt="Distribution of Star Ratings" />
       </div>
       <div class="component-bubble"></div>
       <div class="component-bubble"></div>
-      <div class="component-bubble"></div>
-      <!-- Add more .component-bubble as needed -->
+      <div id="component-bubble" class="component-bubble">
+        <!-- JavaScript will insert content here -->
+      </div>      <!-- Add more .component-bubble as needed -->
     </div>
     <div class="bubble-container">
       <iframe src="../../server/homeComponents/uk_heatmap.html" frameborder="0" class="heatmap-iframe"></iframe>
@@ -163,5 +168,7 @@
     sidebar.classList.toggle("close");
   });
 </script>
+
+<script src="top3script.js"></script>
 </body>
 </html>
