@@ -1,0 +1,91 @@
+Institution code (UKPRN),Institution name,Institution sort order,Main panel,Unit of assessment number,Unit of assessment name,Multiple submission letter,Multiple submission name,Joint submission,Profile,FTE of submitted staff,Total FTE of submitted staff for joint submission,% of eligible staff submitted,4*,3*,2*,1*,Unclassified,Latitude,Longitude
+10007783,University of Aberdeen,1,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,15.50,NULL,100,0,87.5,12.5,0,0,57.1648,-2.1015
+10007856,Aberystwyth University / Prifysgol Aberystwyth,3,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,27.82,NULL,100,0,50,50,0,0,52.4183,-4.0639
+10007759,Aston University,8,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,34.00,NULL,100,0,12.5,87.5,0,0,52.4867,-1.8882
+10007850,The University of Bath,10,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,29.00,NULL,100,37.5,62.5,0,0,0,51.3782,-2.3264
+10007152,University of Bedfordshire,12,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,10.00,NULL,45,0,0,50,50,0,51.8779,-0.4093
+10007760,Birkbeck College,13,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,25.60,NULL,100,0,50,50,0,0,51.5219,-0.1303
+10006840,The University of Birmingham,14,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,42.70,NULL,100,87.5,12.5,0,0,0,52.4508,-1.9305
+10007140,Birmingham City University,15,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,30.00,NULL,35,0,0,75,25,0,52.4864,-1.9175
+10000824,Bournemouth University,18,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,45.75,NULL,80,0,12.5,75,12.5,0,50.7220,-1.8667
+10007785,The University of Bradford,19,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,19.00,NULL,65,0,12.5,75,12.5,0,53.7915,1.7661
+10000886,University of Brighton,20,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,15.00,NULL,40,0,37.5,62.5,0,0,50.8598,-0.0879
+10007786,University of Bristol,21,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,59.15,NULL,100,75,25,0,0,0,51.4585,-2.6022
+10000961,Brunel University London,22,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,37.30,NULL,100,0,50,50,0,0,51.5321,-0.4727
+10007788,University of Cambridge,25,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,80.80,NULL,105,100,0,0,0,0,52.2054,0.1132
+10007814,Cardiff University / Prifysgol Caerdydd,28,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,45.55,NULL,100,25,75,0,0,0,51.4866,-3.1789
+10007141,University of Central Lancashire,29,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,14.00,NULL,55,0,0,50,50,0,53.7645,-2.7083
+10007848,University of Chester,30,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,7.60,NULL,50,0,0,0,100,0,53.2003,-2.8998
+10001478,City University of London,32,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,36.20,NULL,100,0,87.5,12.5,0,0,51.5280,-0.1025
+10001883,De Montfort University,37,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,53.30,NULL,65,0,50,50,0,0,52.6298,-1.1399
+10007851,University of Derby,38,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,17.00,NULL,50,0,0,50,50,0,52.9379,-1.4972
+10007852,University of Dundee,39,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,13.50,NULL,100,12.5,87.5,0,0,0,56.4582,-2.9821
+10007143,University of Durham,40,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,26.20,NULL,100,12.5,87.5,0,0,0,54.7650,-1.5782
+10007789,The University of East Anglia,41,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,28.30,NULL,100,12.5,62.5,25,0,0,52.6221,1.2411
+10007144,University of East London,42,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,12.20,NULL,60,0,0,50,50,0,51.5563,0.0655
+10007823,Edge Hill University,43,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,19.00,NULL,95,0,0,75,25,0,53.5588,-2.8703
+10007790,University of Edinburgh,44,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,144.04,NULL,100,100,0,0,0,0,55.9445,-3.1892
+10007772,Edinburgh Napier University,45,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,39.40,NULL,75,0,37.5,62.5,0,0,55.9332,-3.2142
+10007791,University of Essex,46,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,73.00,NULL,100,0,62.5,37.5,0,0,51.8777,0.9472
+10007792,University of Exeter,47,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,27.90,NULL,100,0,62.5,37.5,0,0,50.7371,-3.5351
+10007794,University of Glasgow,49,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,46.60,NULL,100,62.5,37.5,0,0,0,55.8724,-4.2900
+10007762,Glasgow Caledonian University,50,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,14.00,NULL,25,0,0,50,50,0,55.8668,-4.2500
+10007833,Wrexham Glyndŵr University,53,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,3.50,NULL,30,0,0,0,75,25,53.0526,-3.0062
+10002718,Goldsmiths' College,54,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,32.55,NULL,100,0,50,37.5,12.5,0,51.4743,0.0354
+10007146,University of Greenwich,55,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,18.80,NULL,35,0,0,62.5,37.5,0,51.4830,-0.0064
+10007764,Heriot-Watt University,59,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,31.70,NULL,100,0,100,0,0,0,55.9095,-3.3206
+10007147,University of Hertfordshire,60,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,31.21,NULL,45,0,75,25,0,0,51.7517,-0.2400
+10007148,The University of Huddersfield,62,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,27.20,NULL,85,0,0,75,25,0,53.6428,-1.7781
+10007149,The University of Hull,63,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,11.00,NULL,100,0,25,75,0,0,53.7731,-0.3670
+10003270,Imperial College of Science Technology and Medicine,64,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,58.45,NULL,100,100,0,0,0,0,51.4988,-0.1749
+10007767,University of Keele,67,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,15.00,NULL,85,0,0,100,0,0,53.0030,-2.2721
+10007150,The University of Kent,68,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,34.70,NULL,100,0,75,25,0,0,51.2967,1.0630
+10003645,King's College London,69,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,48.50,NULL,100,62.5,37.5,0,0,0,51.5115,-0.1160
+10003678,Kingston University,70,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,22.00,NULL,55,0,62.5,37.5,0,0,51.4032,-0.3035
+10007768,The University of Lancaster,71,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,49.45,NULL,100,75,25,0,0,0,54.0104,-2.7877
+10007795,The University of Leeds,72,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,34.25,NULL,100,62.5,37.5,0,0,0,53.8067,-1.5550
+10003861,Leeds Beckett University,74,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,10.80,NULL,35,0,0,12.5,87.5,0,53.8035,-1.5480
+10007796,The University of Leicester,76,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,19.70,NULL,100,0,50,50,0,0,52.6211,-1.1246
+10007151,University of Lincoln,77,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,28.80,NULL,100,0,75,25,0,0,53.2285,-0.5478
+10006842,The University of Liverpool,78,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,40.75,NULL,100,50,50,0,0,0,53.4048,-2.9653
+10003956,Liverpool Hope University,79,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,13.50,NULL,100,0,0,37.5,62.5,0,53.3908,-2.8923
+10003957,Liverpool John Moores University,80,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,42.00,NULL,70,0,25,75,0,0,53.4033,-2.9731
+10004048,London Metropolitan University,83,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,9.30,NULL,100,0,0,50,50,0,51.5526,-0.1113
+10004113,Loughborough University,87,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,26.00,NULL,100,12.5,62.5,25,0,0,52.7650,-1.2321
+10007798,The University of Manchester,88,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,53.10,NULL,100,100,0,0,0,0,53.4668,-2.2339
+10004180,Manchester Metropolitan University,89,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,23.00,NULL,40,0,12.5,87.5,0,0,53.4703,-2.2393
+10004351,Middlesex University,91,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,64.55,NULL,70,0,25,75,0,0,51.5897,-0.2293
+10007799,University of Newcastle upon Tyne,92,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,49.80,NULL,100,50,50,0,0,0,54.9792,-1.6147
+10001282,University of Northumbria at Newcastle,95,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,64.41,NULL,90,0,62.5,37.5,0,0,54.9765,-1.6071
+10004797,Nottingham Trent University,97,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,15.40,NULL,70,0,25,75,0,0,52.9581,-1.1542
+10007154,University of Nottingham,98,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,46.20,NULL,100,100,0,0,0,0,52.9388,-1.1981
+10007773,The Open University,99,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,44.70,NULL,55,25,75,0,0,0,52.0249,-0.7082
+10007774,University of Oxford,100,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,73.65,NULL,100,100,0,0,0,0,51.7548,-1.2544
+10004930,Oxford Brookes University,101,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,17.30,NULL,65,0,0,75,25,0,51.7550,-1.2242
+10007801,University of Plymouth,102,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,14.62,NULL,100,0,75,25,0,0,50.3759,-4.1396
+10007155,University of Portsmouth,103,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,29.80,NULL,45,0,12.5,87.5,0,0,50.7953,-1.0939
+10007775,Queen Mary University of London,105,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,68.80,NULL,100,50,50,0,0,0,51.5241,-0.0404
+10007802,The University of Reading,108,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,10.40,NULL,100,0,87.5,12.5,0,0,51.4403,-0.9421
+10005500,Robert Gordon University,109,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,10.00,NULL,30,0,25,75,0,0,57.1189,-2.1379
+10005553,Royal Holloway and Bedford New College,118,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,38.10,NULL,100,62.5,37.5,0,0,0,51.4232,-0.5593
+10007156,University of Salford,121,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,16.00,NULL,60,0,25,75,0,0,53.4872,-2.2737
+10007157,The University of Sheffield,123,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,56.75,NULL,100,87.5,12.5,0,0,0,53.3814,-1.4884
+10005790,Sheffield Hallam University,124,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,25.60,NULL,30,0,12.5,75,12.5,0,53.3784,-1.4663
+10007793,University of South Wales,126,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,13.70,NULL,35,0,0,75,25,0,51.4790,-3.1694
+10007158,University of Southampton,127,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,47.26,NULL,100,100,0,0,0,0,50.9357,-1.3966
+10007803,University of St Andrews,129,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,30.10,NULL,100,12.5,87.5,0,0,0,56.3417,-2.7943
+10007804,University of Stirling,134,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,18.00,NULL,100,0,25,75,0,0,56.1461,-3.9178
+10007805,University of Strathclyde,136,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,31.80,NULL,100,0,50,50,0,0,55.8621,-4.2424
+10007159,University of Sunderland,138,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,6.70,NULL,25,0,0,100,0,0,54.9096,-1.3838
+10007160,The University of Surrey,139,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,22.50,NULL,100,0,100,0,0,0,51.2431,-0.5895
+10007806,University of Sussex,140,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,26.90,NULL,100,12.5,87.5,0,0,0,50.8677,-0.0875
+10007855,Swansea University / Prifysgol Abertawe,141,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,32.90,NULL,100,12.5,62.5,25,0,0,51.6092,-3.9800
+10007807,University of Ulster,145,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,69.60,NULL,100,25,75,0,0,0,54.6046,-5.9291
+10007784,University College London,146,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,100.20,NULL,100,87.5,12.5,0,0,0,51.5246,-0.1340
+10007163,The University of Warwick,149,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,41.60,NULL,100,62.5,37.5,0,0,0,52.3793,-1.5615
+10006566,The University of West London,150,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,9.80,NULL,70,0,0,50,50,0,51.5069, -0.3032
+10007164,University of the West of England Bristol,151,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,28.60,NULL,35,0,12.5,75,12.5,0,51.5006,-2.5474
+10007800,University of the West of Scotland,152,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,25.00,NULL,55,0,37.5,62.5,0,0,55.7782,-4.1041
+10007165,The University of Westminster,153,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,21.40,NULL,40,0,25,75,0,0,51.5170,-0.1432
+10007166,University of Wolverhampton,155,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,11.00,NULL,35,0,0,50,50,0,52.5881,-2.1275
+10007167,University of York,157,B,11,Computer Science and Informatics,NULL,NULL,NULL,Environment,44.40,NULL,100,87.5,12.5,0,0,0,53.9461,-1.0518
