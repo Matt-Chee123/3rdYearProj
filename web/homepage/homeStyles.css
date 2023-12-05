@@ -301,7 +301,9 @@
   overflow: hidden;
   display: flex;
   align-items: center; /* Centers children vertically in the container */
-  justify-content: center;
+  flex-direction: column; /* Stack children vertically */
+  justify-content: space-around; /* Distribute children evenly */
+  padding: 10px;
 }
 
 

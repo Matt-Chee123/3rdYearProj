@@ -11,7 +11,7 @@ function parseCSV(csv) {
     // Adjust the property names and parsing as needed
     return {
       name: name,
-      score: parseFloat(fourStar) * 4 + parseFloat(threeStar) * 3 + parseFloat(twoStar) * 2 + parseFloat(oneStar),
+      score: parseFloat(fourStar) * 4 + parseFloat(threeStar) * 3 + parseFloat(twoStar) * 2 + parseFloat(oneStar) ,
       // Include other fields if needed
     };
   });
