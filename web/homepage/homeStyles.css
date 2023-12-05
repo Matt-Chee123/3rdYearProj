@@ -305,7 +305,14 @@
   justify-content: space-around; /* Distribute children evenly */
   padding: 10px;
 }
+.main-container .left-components .component-bubble:nth-of-type(6) {
+  height: 220px;
+  margin-top: -20px;
+}
 
+.main-container .left-components .component-bubble:nth-of-type(4) {
+  height: 180px; /* Set to desired height */
+}
 
 @media (max-width: 420px) {
   .sidebar.close ~ .home-section,
