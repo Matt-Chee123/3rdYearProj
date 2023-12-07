@@ -3,13 +3,12 @@ function fetchAndDisplaySpecificBottomRecords(filePath) {
     .then(response => response.text())
     .then(csvText => {
       let records = parseCSV(csvText);
-      // Filter out the specific records by their UKPRN
+      // filter the specific records by their UKPRN
       const specificRecords = records.filter(record =>
-        record.ukprn === '10003861' ||
+        record.ukprn === '10007855' || //10003861
         record.ukprn === '10007848' ||
         record.ukprn === '10007833'
       );
-      // Since the records are already sorted by UKPRN, we assume that these are the bottom ones
       displayBottomThree(specificRecords);
     })
     .catch(error => console.error('Error fetching or parsing CSV:', error));

@@ -1,7 +1,6 @@
 import pandas as pd
 from io import StringIO
 
-# Define a sample CSV data as a string to simulate reading from a file.
 csv_data = """
 Institution code (UKPRN),Institution name,Institution sort order,Main panel,Unit of assessment number,Unit of assessment name,Multiple submission letter,Multiple submission name,Joint submission,Profile,FTE of submitted staff,Total FTE of submitted staff for joint submission,% of eligible staff submitted,4*,3*,2*,1*,Unclassified,Latitude,Longitude,Score
 10003270,Imperial College of Science Technology and Medicine,64,B,11,Computer Science and Informatics,,,,Environment,58.45,,100,1.0,0.0,0.0,0.0,0,51.4988,-0.1749,400.0
@@ -95,14 +94,11 @@ Institution code (UKPRN),Institution name,Institution sort order,Main panel,Unit
 10007848,University of Chester,30,B,11,Computer Science and Informatics,,,,Environment,7.6,,50,0.0,0.0,0.0,100.0,0,53.2003,-2.8998,100.0
 10007833,Wrexham Glyndŵr University,53,B,11,Computer Science and Informatics,,,,Environment,3.5,,30,0.0,0.0,0.0,75.0,25,53.0526,-3.0062,75.0
 """
-
-# Use StringIO to simulate opening a file. In a real scenario, you would use open('path/to/file.csv').
-# Read the CSV data into a DataFrame.
+# read the CSV data into a DataFrame
 df = pd.read_csv(StringIO(csv_data))
 
-# Divide the 'Score' by 100 for each record.
+# divide the 'Score' by 100 for each record
 df['Score'] = df['Score'].apply(lambda x: x / 100)
 
-# Save the modified DataFrame back to a CSV file. In a real scenario, you would use 'df.to_csv('path/to/output.csv')'.
-# Here, we will just print it to the screen.
+# save the modified DataFrame back to a CSV file
 df.to_csv('../data/sorted_data.csv', index=False)

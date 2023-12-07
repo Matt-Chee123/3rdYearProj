@@ -1,9 +1,9 @@
 <?php
 
-$db_host = "dbhost.cs.man.ac.uk";
-$db_user = "u60770mc";
-$db_pass = "200Argyle";
-$db_name = "u60770mc";
+$db_host = "MattChee.mysql.pythonanywhere-services.com";
+$db_user = "MattChee";
+$db_pass = "200Argyle!!";
+$db_name = "MattChee$default";
 
 $db_connection = mysqli_connect($db_host, $db_user, $db_pass,$db_name);
 
@@ -30,6 +30,8 @@ $sql = "CREATE TABLE IF NOT EXISTS refData (
           Star2 DECIMAL(5,2) NOT NULL,
           Star1 DECIMAL(5,2) NOT NULL,
           Unclassified DECIMAL(5,2) NOT NULL,
+          Latitude DECIMAL(10,8) NOT NULL,
+          Longitude DECIMAL(11,8) NOT NULL,
           PRIMARY KEY (InstitutionCode, UnitOfAssessmentNumber, Profile)
 )";
 
@@ -38,7 +40,7 @@ if (!$result) {
   echo "Error: " . mysqli_error($db_connection) . "\n";
   exit;
 }
-
+echo "Table refData created successfully\n";
 mysqli_close($db_connection);
 
 ?>
