@@ -1,0 +1,16 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - echo 'No pre-build commands' # If you have any pre-build steps, add them here.
+    build:
+      commands:
+        - cp -R server/homeComponents/*.html web/ # This copies all HTML files from the server homeComponents directory to the web directory
+  artifacts:
+    baseDirectory: web # This is where your home.html is located.
+    files:
+      - '**/*' # This includes all files in the baseDirectory and subdirectories in the deployment.
+  cache:
+    paths: [] # Specify any directories you want to cache between builds here.
+
